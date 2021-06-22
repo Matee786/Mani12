@@ -1,0 +1,17 @@
+
+section div{background-color: steelblue;
+     color:red;
+    }
+#table{background-color: cyan;
+     color: red;
+    } 
+.new{ opacity:1;
+}
+
+div#tag{color: turquoise;
+     font-size: 100px;
+    }
+div#tag.me{color: violet;
+}
+div.me{color: yellow !important;
+}
